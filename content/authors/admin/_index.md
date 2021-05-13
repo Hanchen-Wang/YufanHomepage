@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yufan Chen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: UNSW, Sydney
+  url: https://www.unsw.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Environmental Engineering
+    institution: UNSW, Sydney
+    year: 2017-2021
+  - course: Master of Engineering in Environmental Engineering
+    institution: Tongji University
+    year: 2017
+  - course: Bachelor of Engineering in Environmental Engineering
+    institution: Nanjing University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Ph.D. candidate in school of Civil and Environmental Engineering, University of New South Wales. I am supervised by Scientia Professor. [David Waite](https://research.unsw.edu.au/people/scientia-professor-david-waite) (Fellow of the American Academy of Engineering) and Dr. [Christopher J. Miller](https://research.unsw.edu.au/people/dr-christopher-james-miller). I received my Bachelor degree in Environmental Engineering from Nanjing University in 2014 and my Master degree in Environmental Engineering from Tongji University in 2017.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on water and wastewater treatment by advanced oxidation processes and kinetic modelling of reactive oxygen species.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
