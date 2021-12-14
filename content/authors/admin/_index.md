@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Aquatic Redox Chemistry
+- Kinetics Modelling of Reactive Species
+- Advanced Oxidation Processes
+- Emerging Contaminants Removal
 
 # Education to show in About widget
 education:
@@ -58,7 +59,7 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a Ph.D. candidate in school of Civil and Environmental Engineering, University of New South Wales. I am supervised by Scientia Professor. [David Waite](https://research.unsw.edu.au/people/scientia-professor-david-waite) (Fellow of the American Academy of Engineering) and Dr. [Christopher J. Miller](https://research.unsw.edu.au/people/dr-christopher-james-miller). I received my Bachelor degree in Environmental Engineering from Nanjing University in 2014 and my Master degree in Environmental Engineering from Tongji University in 2017.
+I am currently a Ph.D. candidate in school of Civil and Environmental Engineering, University of New South Wales. I am supervised by Scientia Professor. [David Waite](https://research.unsw.edu.au/people/scientia-professor-david-waite) (Fellow of the American Academy of Engineering) and Dr. [Christopher J. Miller](https://research.unsw.edu.au/people/dr-christopher-james-miller). I received Bachelor degree in Environmental Engineering from Nanjing University in 2014 and Master degree in Environmental Engineering from Tongji University in 2017.
 
 My research focuses on water and wastewater treatment by advanced oxidation processes and kinetic modelling of reactive oxygen species.
 
