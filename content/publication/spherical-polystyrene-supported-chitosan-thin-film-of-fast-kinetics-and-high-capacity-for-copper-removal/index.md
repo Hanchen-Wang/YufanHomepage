@@ -11,6 +11,7 @@ authors:
   - Long Teng
   - admin
   - Lu Liu
+doi: https://doi.org/10.1016/j.jhazmat.2014.05.032
 publication: Journal of hazardous materials
 publication_short: JHM
 draft: false
