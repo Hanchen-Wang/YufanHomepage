@@ -6,7 +6,7 @@ subtitle: "Study of carboxyl group ligand promoting the generation of
 date: 2014-09-01T08:14:41.596Z
 draft: false
 featured: false
-external_link: no link
+external_link:
 image:
   filename: ""
   focal_point: Smart

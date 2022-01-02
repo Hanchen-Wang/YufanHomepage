@@ -5,7 +5,7 @@ subtitle: Reactive of oxygen species production on oxygenation of subsurface
 date: 2017-10-01T07:22:29.107Z
 draft: false
 featured: false
-external_link: no link
+external_link:
 image:
   filename: ""
   focal_point: Smart

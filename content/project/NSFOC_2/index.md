@@ -5,7 +5,7 @@ subtitle: Mechanism of in-situ formed catalysts-catalysed molecular oxygen in
 date: 2015-03-01T07:20:19.405Z
 draft: false
 featured: false
-external_link: no link
+external_link:
 image:
   filename: ""
   focal_point: Smart
