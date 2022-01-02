@@ -1,7 +1,6 @@
 ---
-title: " Yufan Chen Enhanced degradation of chloramphenicol at alkaline
-  conditions by S (-II) assisted heterogeneous Fenton-like reactions using
-  pyrite"
+title: Enhanced degradation of chloramphenicol at alkaline conditions by S (-II)
+  assisted heterogeneous Fenton-like reactions using pyrite
 publication_types:
   - "2"
 authors:
