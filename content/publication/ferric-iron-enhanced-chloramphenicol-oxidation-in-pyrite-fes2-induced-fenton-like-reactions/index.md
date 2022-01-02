@@ -1,38 +1,41 @@
 ---
-title: Ferric iron enhanced chloramphenicol oxidation in pyrite (FeS2) induced
-  Fenton-like reactions
+title: "Oxidation of acetaminophen by Green rust coupled with Cu (II) via
+  dioxygen activation: the role of various interlayer anions (CO32−, SO42−,
+  Cl−)"
 publication_types:
   - "2"
 authors:
-  - Deli Wu
+  - Linghui Zhao
   - admin
-  - Zhiyong Zhang
   - Yong Feng
-  - Yanxia Liu
-  - Jinhong Fan
-  - Yalei Zhang
-doi: https://doi.org/10.1016/j.seppur.2015.09.016
-publication: Separation and Purification Technology
+  - Deli Wu
+doi: https://doi.org/10.1016/j.cej.2018.06.039
+publication: Chemical Engineering Journal
 publication_short: ""
-abstract: In this study, the novel combination of Fe3+ and FeS2/H2O2 system was
-  used to enhance the degradation of chloramphenicol (CAP) by promoting the
-  synergetic effect between the Fe3+ and the FeS2, and the kinetic models to
-  elucidate the reaction mechanisms were validated. Raw pyrite samples were
-  pretreated and characterized by X-ray diffraction, scanning electron
-  microscope, transmission electron microscopy and Brunauer–Emmett–Teller
-  surface area analyzer. Studies on the effects of buffer solution and phosphate
-  on the kinetics of CAP degradation revealed that the autocatalytic effect was
-  associated with the dissolution and generation of Fe3+. As confirmed by the
-  experiment to examine the Fe3+ mediated oxidation of FeS2, the catalytic
-  improvement was due to the release of Fe2+ by the reaction between the FeS2
-  and the Fe3+ at zero-order rate when the Fe3+ was excessively present. Kinetic
-  models including surface-controlled activation and homogeneous Fenton
-  reactions were responsible for the degradation of CAP.
+abstract: In this study, three GR/Cu(II) (Green Rust/Cu(II)) composites
+  (GRSO4/Cu(II), GRCO3/Cu(II), and GRCl/Cu(II)) were synthesized and used to
+  activate dioxygen under weakly acidic conditions. The change in the mechanism
+  caused by three interlayer anions, CO32−, SO42−, and Cl−, was discussed for
+  the first time. Both Cu(I) and H2O2 were generated during GR/Cu(II)-induced
+  dioxygen activation, resulting in the rapid degradation of acetaminophen. The
+  inconsistency between the reaction constant rates and oxidation reduction
+  potential (ORP) order revealed the effects of the various types of interlayer
+  ions. To further reveal the effects of the anions, the variations in the
+  morphology and valence states of the composites were examined. To identify the
+  rate-controlling step of dioxygen activation by the three composites, the
+  production of reactive oxygen species (ROS) was investigated and compared. The
+  combination of interlayer anions and metal ions changed the oxide morphology
+  of the solid-phase materials. Furthermore, changes in the content of the
+  reductive species (Fe(II) or Cu(I)) either enhanced or inhibited specific
+  reaction steps. The results from this study could deepen our understanding of
+  the effects of anions on dioxygen activation by transition metals and provide
+  a basis for the study of oxidation reactions and mechanisms in the presence of
+  various anions.
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2015-11-05T06:55:02.224Z
+date: 2018-10-15T06:55:02.224Z
 ---
