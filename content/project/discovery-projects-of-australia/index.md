@@ -1,7 +1,7 @@
 ---
-title: Discovery Projects of Australia
+title: Discovery Projects of Australia (10/2017-Now)
 subtitle: Reactive of oxygen species production on oxygenation of subsurface
-  sediments 10/2017-Now
+  sediments
 date: 2017-10-01T07:22:29.107Z
 draft: false
 featured: false
