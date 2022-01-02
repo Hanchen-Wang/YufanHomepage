@@ -9,7 +9,7 @@ authors:
   - Bingcai Pan
   - Quanxing Zhang
   - Long Teng
-  - Yufan Chen
+  - admin
   - Lu Liu
 publication: Journal of hazardous materials
 publication_short: JHM
@@ -19,5 +19,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-01-02T06:32:19.907Z
+date: 2014-07-15T06:32:19.907Z
 ---
