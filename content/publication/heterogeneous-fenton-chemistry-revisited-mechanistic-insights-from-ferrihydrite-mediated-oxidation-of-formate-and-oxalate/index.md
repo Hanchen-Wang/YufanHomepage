@@ -10,7 +10,7 @@ authors:
   - T David Waite
 doi: https://doi.org/10.1021/acs.est.1c04370
 publication: Environmental Science & Technology
-publication_short: EST
+publication_short: ""
 abstract: Iron oxychloride (FeOCl) has been reported to be a highly efficient
   heterogeneous Fenton catalyst over a wide pH range. In order to determine the
   true catalytic performance of FeOCl, we simultaneously quantified the
