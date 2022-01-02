@@ -2,7 +2,7 @@
 title: Natural Science Foundation of China
 subtitle: Study of carboxyl group ligand promoting the generation of
   high-reactive oxidative species in micro-interfacial progress of pyrite-water
-  and removal of PPCPs
+  and removal of PPCPs  09/2014-10/2015
 date: 2014-09-01T08:14:41.596Z
 draft: false
 featured: false
