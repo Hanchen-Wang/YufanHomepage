@@ -1,39 +1,40 @@
 ---
-title: "Key Considerations When Assessing Novel Fenton Catalysts: Iron
-  Oxychloride (FeOCl) as a Case Study"
+title: "Heterogeneous Fenton Chemistry Revisited: Mechanistic Insights from
+  Ferrihydrite-Mediated Oxidation of Formate and Oxalate"
 publication_types:
   - "2"
 authors:
   - admin
   - Christopher J Miller
-  - Richard N Collins
   - T David Waite
-doi: https://doi.org/10.1021/acs.est.1c04370
+doi: https://doi.org/10.1021/acs.est.1c00284
 publication: Environmental Science & Technology
 publication_short: ""
-abstract: Iron oxychloride (FeOCl) has been reported to be a highly efficient
-  heterogeneous Fenton catalyst over a wide pH range. In order to determine the
-  true catalytic performance of FeOCl, we simultaneously quantified the
-  adsorptive and oxidative removal of formate, oxalate, and rhodamine-B (RhB)
-  and the formation of RhB oxidation products at both pH 4.0 and 7.0. FeOCl was
-  found to be a poor Fenton catalyst at either pH, as gauged by the oxidation of
-  formate, oxalate, and rhodamine B and the decomposition of H2O2, in comparison
-  with ferrihydrite (Fhy), one of the most common Fe-containing Fenton
-  catalysts. The adsorption of target contaminants to FeOCl and homogeneous
-  Fenton processes, induced by dissolved iron, resulted in overevaluation of the
-  catalytic performance of FeOCl, especially for (i) the use of strongly
-  adsorbing target compounds, without consideration of the role of adsorption in
-  their removal and (ii) exceedingly high concentrations of H2O2 to remove trace
-  quantities of target contaminants. Overall, this study highlights that the
-  systematic quantification of H2O2 decomposition, target compound adsorption,
-  and oxidation as well as the concentrations of oxidized products formed are
-  prerequisites for unequivocal elucidation of the catalytic nature and reaction
-  mechanism of solid Fenton catalysts.
+abstract: The heterogeneous Fenton process has been widely applied though some
+  aspects of this process are still poorly understood. In this study, we
+  simultaneously quantify the adsorption and decomposition of formate and H2O2
+  at pH 4.0 in the presence of freshly formed ferrihydrite and provide new
+  insights into the ferrihydrite-induced heterogeneous Fenton mechanism with the
+  aid of kinetic and reactive-transport modeling. Our results show that the
+  decomposition of H2O2 and formate is controlled by surface-initiated
+  reactions. Adsorbed formate occupies the surface sites otherwise available for
+  reaction with H2O2 and therefore hampers the surface Fenton reactions despite
+  the negligible accumulation of H2O2 on the surface. The minimal impact of
+  methanol (an effective HO• scavenger) on formate oxidation as well as the poor
+  oxidation of fully adsorbed oxalate compared with the ready oxidation of
+  partially adsorbed formate demonstrates that oxidation mainly occurs in the
+  solid–liquid boundary layer, rather than in bulk or on the surface. This is
+  suggested to be due to the diffusion of surface-generated HO•, rather than
+  surface Fe(II), to the boundary layer with the results of kinetic and
+  reactive-transport modeling supporting this conclusion. The new findings are
+  critical to our understanding of the removal behavior of more complex organic
+  target species and to the design of more effective heterogeneous Fenton
+  technologies.
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-09-30T08:00:18.643Z
+date: 2021-05-27T08:08:09.154Z
 ---
