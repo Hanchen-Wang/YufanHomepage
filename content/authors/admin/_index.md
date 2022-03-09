@@ -50,6 +50,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yufan-Chen-9
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2493-1518
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
