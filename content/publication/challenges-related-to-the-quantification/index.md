@@ -8,7 +8,7 @@ authors:
   - Jieli Xie
   - T. David Waite
 date: 2023-01-31T10:19:08+11:00
-doi: "https://pubs.acs.org/doi/full/10.1021/acs.est.2c06753"
+doi: "10.1021/acs.est.2c06753"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-03-19T10:19:08+11:00

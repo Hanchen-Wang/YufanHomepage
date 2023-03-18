@@ -10,7 +10,7 @@ authors:
   - Dai Pan
   - T. David Waite
 date: 2022-05-13T10:28:13+11:00
-doi: "https://pubs.acs.org/doi/full/10.1021/acs.est.2c00686"
+doi: "10.1021/acs.est.2c00686"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-03-19T10:28:13+11:00
